@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../product-slider"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "product-slider"
+	}
+}

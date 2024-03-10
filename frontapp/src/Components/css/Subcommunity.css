@@ -1,0 +1,39 @@
+.Subcommunity_main{
+    height: 50px;
+    width: 400px;
+    background-color:rgb(196, 196, 196);
+    display:flex;
+    margin: 10px auto 10px auto;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.logo_img_avtar{
+    padding: 10px;
+}
+.img_logo_subcommunuty{
+    height: 30px;
+    border-style: solid ;
+    border-radius: 5px;
+    border-width: 0.4px;
+    width: 30px;
+}
+.Info_sub{
+    display: flex;
+    width: 300px;
+    margin: 0px;
+    /* justify-content: space-evenly; */
+    grid-template-columns: auto auto;
+}
+.sport_info_sub{
+    margin: 14px 10px 12px 10px;
+    /* margin: 0px; */
+}
+.name_Info_sub{
+    margin: 12px 10px 12px 10px;
+    /* margin: 0px; */
+}
+.btn_subcommunity{
+    width: 40px;
+    text-align: center;
+
+}

@@ -1,0 +1,61 @@
+
+.Register_form{
+    background-color: rgb(186, 147, 147);
+    background-image: url("./img/1.jpg");
+    /* background-image: url("./abstract-pink-watercolor-textured-phone-background.jpg"); */
+    padding: 40px;
+    align-items: center;
+    border-radius: 20px;
+    height: 400px;
+    width: 350px;
+    margin: auto;
+    top:40px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+/* register text */
+#text-title_Register{
+    font-size:25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+}
+.title_Register{
+    text-align: center;
+}
+
+
+/* INPUT */
+.input_Register{
+    margin: 30px 0px 30px 0px;
+}
+.Email-input_Register{
+    margin: 10px 0px 10px 0px;
+}
+.Name-input_Register{
+    margin: 10px 0px 10px 0px;
+}
+.Mobile-input_Register{
+    margin: 10px 0px 10px 0px;
+}
+.password-input_Register{
+    margin: 10px 0px 10px 0px;
+}
+.input_email_name_mobile_pass_Register{
+    height: 20px;
+    width: 340px;
+}
+.label_input_Register{
+    display: block;
+    text-align:start;
+    font-size: 20px;
+}
+.btn-input_Register{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+#input_btn_Register{
+    height: 30px;
+    width: 100px;
+    font-size: 17px;
+}

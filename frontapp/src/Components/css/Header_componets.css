@@ -1,0 +1,29 @@
+.Header_Componets {
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ebe8e8;
+    width:90%;
+  }
+  .navbar_list{display: flex;}
+  .logo {
+    cursor: pointer;
+  }
+  .list{
+    list-style: none;
+    margin:0px 15px 0px 15px ;
+  }
+  .list_item{
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+  }
+.Link_header{
+  text-decoration: none;
+}
+.list_item:hover{
+  color:red;
+}
